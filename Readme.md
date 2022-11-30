@@ -4,10 +4,12 @@
 
 Para asegurar una separacion de ambientes tener presente la utilizacion de virtual env
 
+```bash
 create virtual env
 python3 -m venv mle
 source mle/bin/activate
 pip3 install -r requirements.txt
+```
 
 ---
 
