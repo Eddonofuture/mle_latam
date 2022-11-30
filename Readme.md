@@ -1,6 +1,11 @@
+# Flight Prediction MLE TEST
+
+## Descripcion
+
 create virtual env
 python3 -m venv mle
 source mle/bin/activate
+pip3 install -r requirements.txt
 
 Pregunta 1.
 -- Al desconocer el objetivo de las areas de negocios se decidirá arbitrariamente el objetivo de negocio. el cual es será maximizar la precision en las predicciones de atrasos y aceptar algunos errores en la prediccion para casos de atraso como no atrasos. El modelo obtenido con la tecnica xgboost y sus metricas con hiperparametriacion, serían las mejores metricas obtenidas en base a la experimentacion del modelo.
@@ -28,7 +33,18 @@ Pregunta 3.
 
 api + github/workflow
 
-Se generá una API basica para consumo de modelos, considerando el uso de un modelo mas bien primitivo, se enviará mediante variable de ambiente la locacion del modelo
+Se generá una API basica para consumo de modelos, considerando el uso de un modelo mas bien primitivo, se enviará mediante variable de ambiente la ubicacion del modelo, por otro lado se han añadido las instrucciones basicas de github workflows para hacer un despliegue en alguna nube objetivo (no se configuró el token dado que no se podrá verificar en la nube objetivo)
+Revisar carpeta API
+
+Pregunta 4.
+
+Revisar carpeta TEST
+
+Pregunta 5.
+
+Claramente el performance en ambientes locales presentó un limite en la escalabilidad de recursos, la solucion inicial es claramente trabajar en ambientes cloud, administracion de cluster de crecimiento tipo k8s o cluster de spark distribuidos para entrega de servicios (poco practico, pero es una opcion).
+Añadir una GPU o TPU (en caso de utilizar tensorflow) añadiría gran nivel de respuesta al momento de encontrar respuestas del modelo.
+A nivel de software, solo se pueden considerar pequeños arreglos dado que el servicio en si, ya es una expresion minima de como servir un modelo sin considerar validaciones, seguridad, autenticacion entre otros factores del software en si.
 
 
 
