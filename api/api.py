@@ -33,6 +33,8 @@ def prediction():
 
     except Exception as e:
         return f"Error: {e}"
+    except (Exception,):
+        pass
 
 
 if __name__ == "__main__":
