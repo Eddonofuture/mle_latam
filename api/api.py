@@ -4,8 +4,8 @@ import pickle
 from flask import jsonify, request
 import pandas as pd
 
-MODEL = os.getenv('MODEL')
-
+#MODEL = os.getenv('MODEL')
+MODEL = 'model.pkl'
 with open(MODEL, 'rb') as f:
     lr = pickle.load(f)
 
