@@ -19,16 +19,16 @@ def prediction():
         feature_vector = request.json['feature_vector'].split(",")
         feature_vector = pd.DataFrame(
             [int(x) for x in feature_vector]).T.to_numpy()
-        prediction = lr.predict(feature_vector)
+        pred = lr.predict(feature_vector)
         predicted_class = ""
 
-        if (prediction[0] == 0):
+        if (pred[0] == 0):
             predicted_class = "On Time"
 
-        elif (prediction[0] == 1):
+        elif (pred[0] == 1):
             predicted_class = "Delay"
 
-        return jsonify({'prediction': int(prediction[0]),
+        return jsonify({'prediction': int(pred[0]),
                         'predicted_class': predicted_class}), 200
 
     except Exception as e:
