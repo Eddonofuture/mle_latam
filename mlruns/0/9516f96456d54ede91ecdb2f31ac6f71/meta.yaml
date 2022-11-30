@@ -1,5 +1,5 @@
 artifact_uri: ./mlruns/0/9516f96456d54ede91ecdb2f31ac6f71/artifacts
-end_time: null
+end_time: 1669822311701
 entry_point_name: ''
 experiment_id: '0'
 lifecycle_stage: active
@@ -10,6 +10,6 @@ source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1669821602730
-status: 1
+status: 3
 tags: []
 user_id: felipeveloso

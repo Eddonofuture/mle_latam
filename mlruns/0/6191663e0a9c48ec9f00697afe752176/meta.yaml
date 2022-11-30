@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/6191663e0a9c48ec9f00697afe752176/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6191663e0a9c48ec9f00697afe752176
+run_name: burly-turtle-675
+run_uuid: 6191663e0a9c48ec9f00697afe752176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669823985497
+status: 1
+tags: []
+user_id: felipeveloso

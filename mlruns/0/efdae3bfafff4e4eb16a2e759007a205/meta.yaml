@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/efdae3bfafff4e4eb16a2e759007a205/artifacts
+end_time: 1669823653377
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efdae3bfafff4e4eb16a2e759007a205
+run_name: bright-crab-434
+run_uuid: efdae3bfafff4e4eb16a2e759007a205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669823558517
+status: 4
+tags: []
+user_id: felipeveloso

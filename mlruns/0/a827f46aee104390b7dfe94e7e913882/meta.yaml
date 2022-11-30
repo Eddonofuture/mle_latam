@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/a827f46aee104390b7dfe94e7e913882/artifacts
+end_time: 1669823295045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a827f46aee104390b7dfe94e7e913882
+run_name: colorful-hound-19
+run_uuid: a827f46aee104390b7dfe94e7e913882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669823263563
+status: 4
+tags: []
+user_id: felipeveloso

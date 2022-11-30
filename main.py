@@ -40,21 +40,20 @@ features_upsampled = pd.concat([pd.get_dummies(data_upsampled['OPERA'], prefix='
 label_upsampled = data_upsampled['atraso_15']
 
 x_upsampled_train, x_upsampled_test, y_upsampled_train, y_upsampled_test = train_test_split(
-    features_upsampled, label_upsampled, test_size=0.8, random_state=42)
+    features_upsampled, label_upsampled, test_size=0.3, random_state=42)
 
-modelxgb = xgb.XGBClassifier(nthread=4, seed=42)
+modelxgb = xgb.XGBClassifier(
+    nthread=4, seed=42, early_stopping_rounds=10)
 parameters = {
-    'learning_rate': [0.01, 0.05, 0.1],
+    'learning_rate': [0.01, 0.03, 0.05, 0.1],
+    'subsample': [0.5, 0.75, 1],
     'n_estimators': [10, 50, 100, 150, 200],
-    'subsample': [0.5, 0.9],
     'max_depth': [6, 8, 10]
 }
 
-grid_search = GridSearchCV(modelxgb, param_grid=parameters, scoring='roc_auc',
-                           cv=10, n_jobs=-10, verbose=1).fit(x_upsampled_train, y_upsampled_train)
+grid_search = GridSearchCV(modelxgb, param_grid=parameters, scoring='f1',
+                           cv=10, n_jobs=-10, verbose=1).fit(x_upsampled_train, y_upsampled_train, eval_metric='error')
 y_predxgb_grid = grid_search.predict(x_upsampled_test)
 
 #y_upsampled_predxgb = modelxgb.predict(x_upsampled_test)
-mlflow.log_params("report", classification_report(
-    y_upsampled_test, x_upsampled_test))
 print(classification_report(y_upsampled_test, y_predxgb_grid))

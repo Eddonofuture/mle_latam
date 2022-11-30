@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/73bd64845e5b4f02aaef4a8a1ed9285a/artifacts
+end_time: 1669822311565
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73bd64845e5b4f02aaef4a8a1ed9285a
+run_name: suave-doe-508
+run_uuid: 73bd64845e5b4f02aaef4a8a1ed9285a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669821602730
+status: 3
+tags: []
+user_id: felipeveloso

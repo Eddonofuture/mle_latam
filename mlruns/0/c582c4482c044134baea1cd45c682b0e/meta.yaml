@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/c582c4482c044134baea1cd45c682b0e/artifacts
+end_time: 1669822968772
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c582c4482c044134baea1cd45c682b0e
+run_name: unique-boar-386
+run_uuid: c582c4482c044134baea1cd45c682b0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669822936206
+status: 4
+tags: []
+user_id: felipeveloso
