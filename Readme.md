@@ -28,6 +28,7 @@ Pregunta 3.
 
 api + github/workflow
 
+Se generá una API basica para consumo de modelos, considerando el uso de un modelo mas bien primitivo, se enviará mediante variable de ambiente la locacion del modelo
 
 
 
