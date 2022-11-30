@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/6d37df531a25446f904739dad0a388b3/artifacts
+end_time: 1669736755490
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d37df531a25446f904739dad0a388b3
+run_name: beautiful-swan-977
+run_uuid: 6d37df531a25446f904739dad0a388b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669736676558
+status: 3
+tags: []
+user_id: felipeveloso

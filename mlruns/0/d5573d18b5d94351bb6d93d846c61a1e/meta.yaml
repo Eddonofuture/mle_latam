@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/d5573d18b5d94351bb6d93d846c61a1e/artifacts
+end_time: 1669736756551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5573d18b5d94351bb6d93d846c61a1e
+run_name: tasteful-fawn-265
+run_uuid: d5573d18b5d94351bb6d93d846c61a1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669736755725
+status: 3
+tags: []
+user_id: felipeveloso

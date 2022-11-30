@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/7b2622093a5c476ebbb22780a3cce4d2/artifacts
+end_time: 1669735861824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b2622093a5c476ebbb22780a3cce4d2
+run_name: beautiful-skunk-434
+run_uuid: 7b2622093a5c476ebbb22780a3cce4d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669735783807
+status: 3
+tags: []
+user_id: felipeveloso

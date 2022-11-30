@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/9f7adbbe32fb470abb518f4c9b261eed/artifacts
+end_time: 1669821421321
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f7adbbe32fb470abb518f4c9b261eed
+run_name: adaptable-wasp-935
+run_uuid: 9f7adbbe32fb470abb518f4c9b261eed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669820790585
+status: 3
+tags: []
+user_id: felipeveloso

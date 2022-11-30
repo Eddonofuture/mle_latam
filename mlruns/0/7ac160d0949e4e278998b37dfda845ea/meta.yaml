@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/7ac160d0949e4e278998b37dfda845ea/artifacts
+end_time: 1669736755490
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ac160d0949e4e278998b37dfda845ea
+run_name: nebulous-owl-389
+run_uuid: 7ac160d0949e4e278998b37dfda845ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669736676558
+status: 3
+tags: []
+user_id: felipeveloso

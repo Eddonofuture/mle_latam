@@ -1,0 +1,10 @@
+pandas
+matplotlib
+numpy
+seaborn
+missingno
+scikit-learn
+xgboost
+flake8
+autopep8
+mlflow

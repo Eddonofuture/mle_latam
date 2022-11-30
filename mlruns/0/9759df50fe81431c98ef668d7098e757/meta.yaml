@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/9759df50fe81431c98ef668d7098e757/artifacts
+end_time: 1669735621902
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9759df50fe81431c98ef668d7098e757
+run_name: angry-cow-347
+run_uuid: 9759df50fe81431c98ef668d7098e757
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669735552499
+status: 3
+tags: []
+user_id: felipeveloso

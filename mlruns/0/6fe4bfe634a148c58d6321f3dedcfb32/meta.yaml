@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/6fe4bfe634a148c58d6321f3dedcfb32/artifacts
+end_time: 1669670632380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fe4bfe634a148c58d6321f3dedcfb32
+run_name: masked-smelt-146
+run_uuid: 6fe4bfe634a148c58d6321f3dedcfb32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669670579784
+status: 3
+tags: []
+user_id: felipeveloso

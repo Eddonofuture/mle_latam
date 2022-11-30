@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/103606a2f7a348b99ec44e57f06dac58/artifacts
+end_time: 1669738189949
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 103606a2f7a348b99ec44e57f06dac58
+run_name: dashing-kite-560
+run_uuid: 103606a2f7a348b99ec44e57f06dac58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669738077965
+status: 3
+tags: []
+user_id: felipeveloso

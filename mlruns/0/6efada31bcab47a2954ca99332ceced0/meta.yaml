@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/6efada31bcab47a2954ca99332ceced0/artifacts
+end_time: 1669821421321
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6efada31bcab47a2954ca99332ceced0
+run_name: caring-skunk-85
+run_uuid: 6efada31bcab47a2954ca99332ceced0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669820790585
+status: 3
+tags: []
+user_id: felipeveloso

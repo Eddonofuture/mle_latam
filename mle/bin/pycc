@@ -1,0 +1,3 @@
+#!/Users/felipeveloso/Desktop/latam_mle/mle/bin/python3
+from numba.pycc import main
+main()

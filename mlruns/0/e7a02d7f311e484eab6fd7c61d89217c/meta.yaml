@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/e7a02d7f311e484eab6fd7c61d89217c/artifacts
+end_time: 1669670632242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7a02d7f311e484eab6fd7c61d89217c
+run_name: suave-slug-137
+run_uuid: e7a02d7f311e484eab6fd7c61d89217c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669670579784
+status: 3
+tags: []
+user_id: felipeveloso

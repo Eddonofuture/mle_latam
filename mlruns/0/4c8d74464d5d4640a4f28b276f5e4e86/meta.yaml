@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/4c8d74464d5d4640a4f28b276f5e4e86/artifacts
+end_time: 1669738190082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c8d74464d5d4640a4f28b276f5e4e86
+run_name: sneaky-lamb-107
+run_uuid: 4c8d74464d5d4640a4f28b276f5e4e86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669738077965
+status: 3
+tags: []
+user_id: felipeveloso

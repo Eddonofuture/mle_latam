@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/706b004853d84c98b7f702f805d55e6b/artifacts
+end_time: 1669821421321
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 706b004853d84c98b7f702f805d55e6b
+run_name: clean-cow-866
+run_uuid: 706b004853d84c98b7f702f805d55e6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669820790585
+status: 3
+tags: []
+user_id: felipeveloso

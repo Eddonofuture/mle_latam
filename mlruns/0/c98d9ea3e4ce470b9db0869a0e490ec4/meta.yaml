@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/c98d9ea3e4ce470b9db0869a0e490ec4/artifacts
+end_time: 1669670632242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c98d9ea3e4ce470b9db0869a0e490ec4
+run_name: rebellious-cub-756
+run_uuid: c98d9ea3e4ce470b9db0869a0e490ec4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669670579784
+status: 3
+tags: []
+user_id: felipeveloso

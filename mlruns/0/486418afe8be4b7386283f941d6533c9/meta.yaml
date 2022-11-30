@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/486418afe8be4b7386283f941d6533c9/artifacts
+end_time: 1669821421321
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 486418afe8be4b7386283f941d6533c9
+run_name: clean-midge-44
+run_uuid: 486418afe8be4b7386283f941d6533c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669820790585
+status: 3
+tags: []
+user_id: felipeveloso

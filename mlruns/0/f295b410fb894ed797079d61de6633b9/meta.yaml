@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/f295b410fb894ed797079d61de6633b9/artifacts
+end_time: 1669670632242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f295b410fb894ed797079d61de6633b9
+run_name: clumsy-owl-331
+run_uuid: f295b410fb894ed797079d61de6633b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669670579784
+status: 3
+tags: []
+user_id: felipeveloso

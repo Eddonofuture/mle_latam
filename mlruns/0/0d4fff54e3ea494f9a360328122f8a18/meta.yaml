@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/0d4fff54e3ea494f9a360328122f8a18/artifacts
+end_time: 1669735329551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d4fff54e3ea494f9a360328122f8a18
+run_name: polite-mare-285
+run_uuid: 0d4fff54e3ea494f9a360328122f8a18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669735256753
+status: 3
+tags: []
+user_id: felipeveloso

@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/9af04a222bc84f2eaad630c027356d3d/artifacts
+end_time: 1669738189949
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9af04a222bc84f2eaad630c027356d3d
+run_name: able-moose-131
+run_uuid: 9af04a222bc84f2eaad630c027356d3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669738077965
+status: 3
+tags: []
+user_id: felipeveloso

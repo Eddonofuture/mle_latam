@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/03f53f98d6d94e538ace92857eb7f637/artifacts
+end_time: 1669735329551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03f53f98d6d94e538ace92857eb7f637
+run_name: debonair-sponge-889
+run_uuid: 03f53f98d6d94e538ace92857eb7f637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669735256753
+status: 3
+tags: []
+user_id: felipeveloso
