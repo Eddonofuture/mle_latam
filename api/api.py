@@ -31,10 +31,8 @@ def prediction():
         return jsonify({'prediction': int(pred[0]),
                         'predicted_class': predicted_class}), 200
 
-    except Exception as e:
+    except ValueError as e:
         return f"Error: {e}"
-    except (Exception,):
-        pass
 
 
 if __name__ == "__main__":
