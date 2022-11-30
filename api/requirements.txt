@@ -6,7 +6,7 @@ requests
 itsdangerous
 werkzeug
 jinja2
-scikit-learn==1.1.2
+scikit-learn==1.0.2
 google-cloud-storage
 pytest
 click
