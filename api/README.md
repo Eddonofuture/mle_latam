@@ -1,9 +1,9 @@
-# Flight Prediction API
+# Flight Prediction MLE LATAM
 
 ## Description
 
 Una vez realizado el entrenamiento y seleccionado en base a las metricas algún modelo a desplegar, la insercion de la API puede ser generada de 2 maneras.
-En esta exposicion, se realizará mediante despliegue en cloud run, pero la herramienta MLFLOW permite le despliegue autogenerado por la herramienta misma.
+En esta exposicion, se realizará mediante despliegue en localhost (tambien se implementó en cloud run via github triggers), ademas la herramienta MLFLOW permite le despliegue autogenerado por la herramienta misma.
 
 ---
 
