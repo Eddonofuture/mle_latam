@@ -22,3 +22,12 @@ por lo tanto estrategias de upsampling basicas no seán una gran ayuda, solo aum
 
 pregunta 2.
 
+generado
+
+Pregunta 3.
+
+api + github/workflow
+
+
+
+

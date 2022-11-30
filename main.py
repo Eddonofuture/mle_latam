@@ -50,9 +50,10 @@ parameters = {
     'n_estimators': [10, 50, 100, 150, 200],
     'max_depth': [6, 8, 10]
 }
-
+eval_set = [(x_upsampled_train, y_upsampled_train), (x_upsampled_test, y_upsampled_test)]
 grid_search = GridSearchCV(modelxgb, param_grid=parameters, scoring='f1',
-                           cv=10, n_jobs=-10, verbose=1).fit(x_upsampled_train, y_upsampled_train, eval_metric='error')
+                           cv=10, n_jobs=-10, verbose=1).fit(x_upsampled_train, y_upsampled_train,
+                                                             eval_metric='error', eval_set=eval_set,)
 y_predxgb_grid = grid_search.predict(x_upsampled_test)
 
 #y_upsampled_predxgb = modelxgb.predict(x_upsampled_test)

@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/cc291e5520fd45a396f84bd410e0d10e/artifacts
+end_time: 1669825813285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc291e5520fd45a396f84bd410e0d10e
+run_name: upbeat-crab-348
+run_uuid: cc291e5520fd45a396f84bd410e0d10e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669824116922
+status: 3
+tags: []
+user_id: felipeveloso

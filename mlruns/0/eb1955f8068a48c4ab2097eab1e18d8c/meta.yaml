@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/eb1955f8068a48c4ab2097eab1e18d8c/artifacts
+end_time: 1669825813285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb1955f8068a48c4ab2097eab1e18d8c
+run_name: grandiose-owl-813
+run_uuid: eb1955f8068a48c4ab2097eab1e18d8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669824116922
+status: 3
+tags: []
+user_id: felipeveloso
